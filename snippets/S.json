@@ -1,0 +1,11 @@
+{
+    "category": {
+        "short_name": "S",
+        "name": "Sushi",
+        "special_instructions": "Enjoy our delicious sushi items."
+    },
+    "menu_items": [
+        { "short_name": "S1", "name": "Sushi Item 1", "description": "Delicious sushi item 1", "price_small": 8.00, "price_large": 12.00 },
+        { "short_name": "S2", "name": "Sushi Item 2", "description": "Delicious sushi item 2", "price_small": 9.00, "price_large": 13.00 }
+    ]
+}
