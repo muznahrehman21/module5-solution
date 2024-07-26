@@ -1,0 +1,11 @@
+{
+    "category": {
+        "short_name": "D",
+        "name": "Dinner",
+        "special_instructions": "Enjoy our delicious dinner items."
+    },
+    "menu_items": [
+        { "short_name": "D1", "name": "Dinner Item 1", "description": "Delicious dinner item 1", "price_small": 10.00, "price_large": 15.00 },
+        { "short_name": "D2", "name": "Dinner Item 2", "description": "Delicious dinner item 2", "price_small": 12.00, "price_large": 17.00 }
+    ]
+}
