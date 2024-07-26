@@ -1,0 +1,11 @@
+{
+    "category": {
+        "short_name": "DS",
+        "name": "Dessert",
+        "special_instructions": "Enjoy our delicious dessert items."
+    },
+    "menu_items": [
+        { "short_name": "DS1", "name": "Dessert Item 1", "description": "Delicious dessert item 1", "price_small": 3.00, "price_large": 5.00 },
+        { "short_name": "DS2", "name": "Dessert Item 2", "description": "Delicious dessert item 2", "price_small": 4.00, "price_large": 6.00 }
+    ]
+}
