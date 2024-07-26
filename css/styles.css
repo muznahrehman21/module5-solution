@@ -1,0 +1,60 @@
+.loader {
+    border: 16px solid #f3f3f3; 
+    border-top: 16px solid #3498db; 
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+    margin: auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.menu-title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.menu-title h2 {
+    font-size: 2em;
+}
+
+.menu-item-tile {
+    margin: 15px;
+    padding: 15px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+.menu-item-title {
+    font-size: 1.5em;
+}
+
+.menu-item-description {
+    margin-top: 10px;
+    font-size: 1em;
+}
+
+.menu-item-prices {
+    margin-top: 10px;
+    font-size: 1em;
+}
+body {
+    background-image: url('https://th.bing.com/th/id/R.7ca7e90a178119143d40f896caf837f2?rik=F8BrDsY2saSc8w&pid=ImgRaw&r=0'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#main-content {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px;
+}
