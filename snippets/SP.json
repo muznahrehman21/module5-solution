@@ -1,0 +1,11 @@
+{
+    "category": {
+        "short_name": "SP",
+        "name": "Specials",
+        "special_instructions": "Check out our special items."
+    },
+    "menu_items": [
+        { "short_name": "SP1", "name": "Special Item 1", "description": "Delicious special item 1", "price_small": 10.00, "price_large": 15.00 },
+        { "short_name": "SP2", "name": "Special Item 2", "description": "Delicious special item 2", "price_small": 12.00, "price_large": 17.00 }
+    ]
+}
