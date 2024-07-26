@@ -1,0 +1,11 @@
+{
+    "category": {
+        "short_name": "WS",
+        "name": "Wine",
+        "special_instructions": "Enjoy our fine wines."
+    },
+    "menu_items": [
+        { "short_name": "WS1", "name": "Wine Item 1", "description": "Fine wine item 1", "price_small": 15.00, "price_large": 20.00 },
+        { "short_name": "WS2", "name": "Wine Item 2", "description": "Fine wine item 2", "price_small": 18.00, "price_large": 25.00 }
+    ]
+}
