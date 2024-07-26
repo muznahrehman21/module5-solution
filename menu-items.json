@@ -1,0 +1,10 @@
+{
+    "L": ["Lunch Item 1", "Lunch Item 2"],
+    "D": ["Dinner Item 1", "Dinner Item 2"],
+    "S": ["Sushi Item 1", "Sushi Item 2"],
+    "SP": ["Special Item 1", "Special Item 2"],
+    "DS": ["Dessert Item 1", "Dessert Item 2"],
+    "DSS": ["Drink Item 1", "Drink Item 2"],
+    "WS": ["Wine Item 1", "Wine Item 2"],
+    "TS": ["Tea Item 1", "Tea Item 2"]
+}
