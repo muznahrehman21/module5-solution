@@ -1,0 +1,11 @@
+{
+    "category": {
+        "short_name": "DSS",
+        "name": "Drinks",
+        "special_instructions": "Enjoy our refreshing drinks."
+    },
+    "menu_items": [
+        { "short_name": "DSS1", "name": "Drink Item 1", "description": "Refreshing drink item 1", "price_small": 2.00, "price_large": 3.00 },
+        { "short_name": "DSS2", "name": "Drink Item 2", "description": "Refreshing drink item 2", "price_small": 2.50, "price_large": 3.50 }
+    ]
+}
