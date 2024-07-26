@@ -1,0 +1,11 @@
+{
+    "category": {
+        "short_name": "TS",
+        "name": "Tea",
+        "special_instructions": "Enjoy our soothing teas."
+    },
+    "menu_items": [
+        { "short_name": "TS1", "name": "Tea Item 1", "description": "Soothing tea item 1", "price_small": 3.00, "price_large": 4.00 },
+        { "short_name": "TS2", "name": "Tea Item 2", "description": "Soothing tea item 2", "price_small": 3.50, "price_large": 4.50 }
+    ]
+}
